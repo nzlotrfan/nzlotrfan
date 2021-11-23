@@ -12,6 +12,8 @@ I'm a student at Mission Ready HQ, preparing myself for a new adventure into the
   ⛏ CSS<br>
   ⛏ Javascript<br>
   ⛏ React<br>
+  ⛏ NodeJS<br>
+  ⛏ Docker<br>
   ⛏ SQL<br>
   
 <h2>Something interesting</h2>
@@ -19,8 +21,8 @@ I'm a student at Mission Ready HQ, preparing myself for a new adventure into the
 ⚡ I created my username "nzlotrfan" when I was 12 years old. And today, it still holds true! 
 <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nzlotrfan)](https://github.com/nzlotrfan/github-readme-stats)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nzlotrfan)<br>
 
-[![reub's wakatime stats](https://github-readme-stats.vercel.app/api?username=nzlotrfan)](https://github.com/nzlotrfan/github-readme-stats)
+![Reuben's wakatime stats](https://github-readme-stats.vercel.app/api?username=nzlotrfan)
 <h2>Thanks for visiting!</h2>
 And you have a great day now 😊
