@@ -21,6 +21,6 @@ I'm a student at Mission Ready HQ, preparing myself for a new adventure into the
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nzlotrfan)](https://github.com/nzlotrfan/github-readme-stats)<br>
 
-<!-- [![reub's wakatime stats](https://github-readme-stats.vercel.app/api?username=nzlotrfan)](https://github.com/nzlotrfan/github-readme-stats) -->
+[![reub's wakatime stats](https://github-readme-stats.vercel.app/api?username=nzlotrfan)](https://github.com/nzlotrfan/github-readme-stats)
 <h2>Thanks for visiting!</h2>
 And you have a great day now 😊
