@@ -19,9 +19,9 @@ I'm a student at Mission Ready HQ, preparing myself for a new adventure into the
   ⛏ SQL<br>
   
 <h2>Something interesting</h2>
-🧭 My first web design experience was in the days of Microsoft Frontpage. <br>
+🧭 My first web design experience was in the days of Microsoft Frontpage. 😧 <br>
 🎷 When I'm not coding, I am on my piano or singing old jazz songs. <br>
-⚡ I created my username "nzlotrfan" when I was 12 years old. And today, it still holds true! 
+⚡ I created my username *nzlotrfan* (New Zealand Lord of the Rings fan) when I was 12 years old. And today, it still holds true! 
 <br><br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nzlotrfan)<br>
