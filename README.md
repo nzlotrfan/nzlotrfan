@@ -4,7 +4,9 @@
 /\﻿<br><br>
 I'm Reuben, and you've found me on Github. Good for you! It is a pleasure to have you here.
 
-I'm a student at Mission Ready HQ, preparing myself for a new adventure into the world of software development.
+I'm a student at Mission Ready HQ, preparing myself for a new adventure into the world of software development. 
+
+
 
 <h2>Things I'm learning</h2>
 
@@ -17,6 +19,7 @@ I'm a student at Mission Ready HQ, preparing myself for a new adventure into the
   ⛏ SQL<br>
   
 <h2>Something interesting</h2>
+🧭 My first web design experience was in the days of Microsoft Frontpage. <br>
 🎷 When I'm not coding, I am on my piano or singing old jazz songs. <br>
 ⚡ I created my username "nzlotrfan" when I was 12 years old. And today, it still holds true! 
 <br><br>
