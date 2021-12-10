@@ -17,6 +17,7 @@ I'm a student at Mission Ready HQ, preparing myself for a new adventure into the
   ⛏ NodeJS<br>
   ⛏ Docker<br>
   ⛏ SQL<br>
+  ⛏ MongoDB<br>
   
 <h2>Something interesting</h2>
 🧭 My first web design experience was in the days of Microsoft Frontpage. 😧 <br>
