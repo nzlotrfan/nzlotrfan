@@ -12,9 +12,9 @@ I'm a student at Mission Ready HQ, preparing myself for a new adventure into the
 
   ⛏ HTML<br>
   ⛏ CSS<br>
-  ⛏ Javascript<br>
-  ⛏ React<br>
-  ⛏ NodeJS<br>
+  ⛏ JavaScript<br>
+  ⛏ ReactJS<br>
+  ⛏ Node.js<br>
   ⛏ Docker<br>
   ⛏ SQL<br>
   ⛏ MongoDB<br>
