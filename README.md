@@ -2,7 +2,7 @@
 
 I'm Reuben, and you've found me on Github. Good for you! It is a pleasure to have you visit.
 
-I'm a student at Mission Ready HQ, preparing myself for a new adventure into the world of software development. My current focus is on Full Stack frontend and backend web development.
+I'm a student at Mission Ready HQ, preparing myself for a new adventure into the world of software development. My current focus is on full stack frontend and backend web development using ReactJS.
 
 <h2>Things I'm learning</h2>
 
