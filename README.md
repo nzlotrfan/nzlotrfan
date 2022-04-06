@@ -20,8 +20,4 @@ I'm Reuben, and you've found me on Github. Good for you! Thanks for checking out
 ⚡ I created my username "nzlotrfan" (New Zealand Lord of the Rings fan) when I was 12 years old. And today, it still holds true! 
 <br><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nzlotrfan)<br>
-
-![Reuben's wakatime stats](https://github-readme-stats.vercel.app/api?username=nzlotrfan)
-<h2>Thanks for visiting!</h2>
-And you have a great day now 😊
+Thanks for visiting, and you have a great day now 😊
