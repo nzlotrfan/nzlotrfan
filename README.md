@@ -4,14 +4,29 @@ I'm Reuben, and you've found me on Github. Good for you! Thanks for checking out
 
 <h2>Technologies I've worked with</h2>
 
-  ⛏ HTML<br>
-  ⛏ CSS<br>
-  ⛏ JavaScript<br>
-  ⛏ ReactJS<br>
-  ⛏ Node.js<br>
-  ⛏ Docker<br>
-  ⛏ SQL<br>
-  ⛏ MongoDB<br>
+  ⛏ HTML 
+  ⛏ CSS 
+  ⛏ JavaScript 
+  ⛏ ReactJS 
+  ⛏ Node.JS 
+  ⛏ Docker 
+  ⛏ SQL 
+  ⛏ MongoDB 
+  ⛏ MaterialUI 
+  ⛏ REST APIs 
+  ⛏ Express.JS 
+  ⛏ AWS Cloud Services, including Rekognition, ECS, RDS 
+  ⛏ IBM Watson AI 
+  ⛏ DevOps tools such as GitHub Actions 
+  ⛏ Jest Unit Testing 
+  ⛏ WordPress 
+  ⛏ Cognigy.AI chatbot 
+  ⛏ Netlify 
+  ⛏ Heroku 
+  
+  
+  
+  
   
 <h2>Something interesting</h2>
 🧭 My first web design experience was in the days of Microsoft FrontPage. 😲 <br>
