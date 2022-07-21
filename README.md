@@ -15,8 +15,6 @@ I'm Reuben, and you've found me on Github. Good for you! Thanks for checking out
   ⛏ MaterialUI 
   ⛏ REST APIs 
   ⛏ Express.JS 
-  ⛏ AWS Cloud Services, including Rekognition, ECS, RDS 
-  ⛏ IBM Watson AI 
   ⛏ DevOps tools such as GitHub Actions 
   ⛏ Jest Unit Testing 
   ⛏ WordPress 
