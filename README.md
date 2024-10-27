@@ -18,10 +18,12 @@ I'm Reuben, and you've found me on Github. Good for you! Thanks for checking out
   ⛏ DevOps tools such as GitHub Actions 
   ⛏ Jest Unit Testing 
   ⛏ WordPress 
-  ⛏ Cognigy.AI chatbot 
+  ⛏ Cognigy.AI
   ⛏ Netlify 
   ⛏ Heroku 
-  
+  ⛏ Render 
+  ⛏ Microsoft Azure 
+  ⛏ ChatGPT 
   
   
   
