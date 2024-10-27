@@ -9,7 +9,6 @@ I'm Reuben, and you've found me on Github. Good for you! Thanks for checking out
   ⛏ JavaScript 
   ⛏ ReactJS 
   ⛏ Node.JS 
-  ⛏ Docker 
   ⛏ SQL 
   ⛏ MongoDB 
   ⛏ MaterialUI 
@@ -24,6 +23,7 @@ I'm Reuben, and you've found me on Github. Good for you! Thanks for checking out
   ⛏ Render 
   ⛏ Microsoft Azure 
   ⛏ ChatGPT 
+  ⛏ Typescript 
   
   
   
