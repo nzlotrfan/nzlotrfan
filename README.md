@@ -9,21 +9,20 @@ I'm Reuben, and you've found me on Github. Good for you! Thanks for checking out
   ⛏ JavaScript 
   ⛏ ReactJS 
   ⛏ Node.JS 
-  ⛏ SQL 
+  ⛏ MySQL 
   ⛏ MongoDB 
   ⛏ MaterialUI 
   ⛏ REST APIs 
-  ⛏ Express.JS 
-  ⛏ DevOps tools such as GitHub Actions 
+  ⛏ GitHub Actions 
   ⛏ Jest Unit Testing 
   ⛏ WordPress 
   ⛏ Cognigy.AI
   ⛏ Netlify 
   ⛏ Heroku 
-  ⛏ Render 
+  ⛏ Render
   ⛏ Microsoft Azure 
   ⛏ ChatGPT 
-  ⛏ Typescript 
+  ⛏ TypeScript 
   
   
   
