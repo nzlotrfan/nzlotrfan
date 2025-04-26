@@ -33,7 +33,6 @@ I'm Reuben, and you've found me on GitHub. Good for you! Thanks for checking out
 ## Some of my public apps
 💻 	[Mission Gigin](https://www.missiongigin.com/?src=github)  
 💻 	[Magic 8 Ball](https://nzlotrfan.github.io/magic8ball/?src=github)  
-💻 	[Cozy on Crystal](https://www.cozyoncrystal.com/?src=github)  
 💻 	[Sadness Archive](https://www.sadnessarchive.com/?src=github)  
 💻 	[Mapty](https://nzlotrfan.github.io/mapty/?src=github)  
 💻 	[Omnifood](https://omnifood-reuben.netlify.app/?src=github)  
