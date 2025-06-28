@@ -38,3 +38,4 @@ I'm Reuben, and you've found me on GitHub. Good for you! Thanks for checking out
 💻 	[Farm Source Merchandise](https://fs.brandfarm.co.nz/?src=github)  
 💻 	[Mapty](https://nzlotrfan.github.io/mapty/?src=github)  
 💻 	[Omnifood](https://omnifood-reuben.netlify.app/?src=github)  
+💻 	[Reuben Simpson Jazz Vocalist](https://www.reubensimpson.co.nz) 
