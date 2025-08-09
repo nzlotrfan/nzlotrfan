@@ -7,22 +7,21 @@ I'm Reuben, and you've found me on GitHub. Good for you! Thanks for checking out
   ⛏ HTML 
   ⛏ CSS 
   ⛏ JavaScript 
-  ⛏ ReactJS 
+  ⛏ TypeScript 
+  ⛏ React 
+  ⛏ Vite 
+  ⛏ Vitest 
+  ⛏ MUI 
   ⛏ Node.JS 
-  ⛏ MySQL 
-  ⛏ MongoDB 
-  ⛏ MaterialUI 
   ⛏ REST APIs 
-  ⛏ GitHub Actions 
-  ⛏ Jest Unit Testing 
+  ⛏ OpenAI 
+  ⛏ GitHub 
+  ⛏ CICD (GH Actions) 
+  ⛏ MySQL 
   ⛏ WordPress 
-  ⛏ Cognigy.AI
-  ⛏ Netlify 
-  ⛏ Heroku 
-  ⛏ Render
+  ⛏ Agile Methodology 
+  ⛏ Googling 
   ⛏ Microsoft Azure 
-  ⛏ ChatGPT 
-  ⛏ TypeScript  
   
 ## Something interesting
 🧭 My first web design experience was in the days of Microsoft FrontPage. 😲  
